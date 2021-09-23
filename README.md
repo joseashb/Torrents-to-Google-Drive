@@ -13,3 +13,11 @@ Special thanks to [jericjan](https://github.com/jericjan) for fixing the tunnel 
 For the people not familiar with the webUI, this is what it looks like:
 <br>
 <img src="https://i.snag.gy/ZAg2PS.jpg">
+
+## For web File Browser it use [KODExplorer](https://github.com/kalcaddle/KODExplorer)
+
+![img1](https://raw.githubusercontent.com/kalcaddle/static/master/images/kod/common2.png)
+
+![img2](https://raw.githubusercontent.com/kalcaddle/static/master/images/kod/common3.png)
+
+## Visit all features [Here](https://github.com/kalcaddle/KODExplorer#features)
