@@ -20,4 +20,6 @@ For the people not familiar with the webUI, this is what it looks like:
 
 ![img2](https://raw.githubusercontent.com/kalcaddle/static/master/images/kod/common3.png)
 
+### Archives create/extract/preview (zip, rar, 7z, tar, gzip, tgz)
+
 ## Visit all features [Here](https://github.com/kalcaddle/KODExplorer#features)
