@@ -1,9 +1,7 @@
 # Torrents-to-Google-Drive
 This is a Google Colab notebook with QBittorrent and Rclone, which can download torrents to Google Drive.
 
-This is created by [cheems](https://github.com/cheems)
-
-Special thanks to [jericjan](https://github.com/jericjan) for fixing the tunnel issue by replacing ngrok with localtunnel.
+This is originally created by [cheems](https://github.com/cheems) and [jericjan](https://github.com/jericjan)
 
 <br><b>Usage:</b>
 <br>
